@@ -14,6 +14,12 @@ AI agents are part of my daily toolchain, so I spend more time deciding what to 
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
+## What I do
+
+- 🧩 Turn loosely defined business needs into shipped products: scoping, design, build, launch
+- 🤖 Build LLM pipelines that read, classify, and summarize real-world content
+- 🏗️ Run what I ship: APIs, data, deploys, and monitoring
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:hymn8612@gmail.com)
